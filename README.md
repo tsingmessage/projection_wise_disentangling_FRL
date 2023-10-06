@@ -18,6 +18,6 @@ Mutual Information Neural Estimation : https://github.com/gtegner/mine-pytorch<b
 
 
 
-# scripts and synthetic data set are uploaded:
+scripts and synthetic data set are uploaded:<br/>
 https://gitlab.com/radiology/compopbio/ai_based_association_analysis
 
